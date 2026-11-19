@@ -1,0 +1,6 @@
+﻿algorithm,runs,feasible_runs,best_objective,mean_objective,ARD_percent,mean_time_seconds,mean_evaluations,mean_consolidation_calls,mean_consolidation_evaluations,mean_consolidation_global_improvements,mean_consolidation_global_objective_gain,mean_inner_generations_completed,mean_outer_iterations
+CPLEX,1,1,-980375,-980375.0,0.0,600.1971576000215,,,,,,,
+THA,5,5,-973059,-970286.2,1.0290756088231543,6.861786679999204,10000.0,5.0,1500.0,12.2,11159.2,136.0,2.8
+ALBGA,5,5,-870173,-866669.2,11.598194568404947,2.977386940008728,10000.0,,,,,,
+MLVNS,5,5,-853790,-848179.8,13.48414637256152,2.720690319989808,10000.0,,,,,,
+TWO_LEVEL,5,5,-853927,-845261.8,13.781787581282671,2.632242819998646,10000.0,,,,,,
