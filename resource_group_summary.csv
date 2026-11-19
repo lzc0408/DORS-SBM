@@ -1,0 +1,17 @@
+﻿rooms_per_hospital,component,label,runs,ARD_percent
+3,full,Full THA,35,0.8759930618246596
+3,no_initialization,Heuristic initialization,35,0.8916153974729116
+3,no_inheritance,Population inheritance,35,0.8613561977630362
+3,no_outer,Outer resource search,35,0.9620252585269703
+3,no_consolidation,Resource consolidation,35,2.890579487824923
+3,empty_only,Multi-room repacking,35,2.890579487824923
+3,no_crossover,PMX crossover,35,0.8328316148085311
+3,no_mutation,Inversion mutation,35,0.8685381001430895
+5,full,Full THA,40,1.102791103147712
+5,no_initialization,Heuristic initialization,40,1.0944153460501378
+5,no_inheritance,Population inheritance,40,1.0799817517469763
+5,no_outer,Outer resource search,40,1.0580359688869532
+5,no_consolidation,Resource consolidation,40,2.30404486382042
+5,empty_only,Multi-room repacking,40,2.3022217673761873
+5,no_crossover,PMX crossover,40,1.0729262684235452
+5,no_mutation,Inversion mutation,40,1.1480442480477095

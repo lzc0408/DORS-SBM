@@ -1,0 +1,15 @@
+﻿instance,rooms,patients,objective,status,mip_gap,best_bound,source
+R3_I20_seed101,3,20,-270360,optimal,0.0,-270360.0000000003,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R3_I20_seed101\CPLEX\seed_1.json
+R3_I40_seed102,3,40,-459926,feasible,0.00017971309100826502,-460008.65472309507,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R3_I40_seed102\CPLEX\seed_1.json
+R3_I60_seed103,3,60,-704049,feasible,0.0001360405607707889,-704144.7792207701,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R3_I60_seed103\CPLEX\seed_1.json
+R3_I80_seed104,3,80,-852640,feasible,0.0034038415838997856,-855542.2514880963,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R3_I80_seed104\CPLEX\seed_1.json
+R3_I100_seed105,3,100,-1152161,feasible,6.618150436469554e-05,-1152237.2517482466,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R3_I100_seed105\CPLEX\seed_1.json
+R3_I120_seed106,3,120,-1237839,feasible,0.002308891236544073,-1240697.0356193525,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R3_I120_seed106\CPLEX\seed_1.json
+R3_I140_seed107,3,140,-1550589,feasible,0.00029558660182259753,-1551047.3333332958,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R3_I140_seed107\CPLEX\seed_1.json
+R5_I20_seed108,5,20,-205694,optimal,0.0,-205694.0,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R5_I20_seed108\CPLEX\seed_1.json
+R5_I40_seed109,5,40,-458916,feasible,0.0044485654393023955,-460957.5178571429,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R5_I40_seed109\CPLEX\seed_1.json
+R5_I60_seed110,5,60,-643409,feasible,8.548217386464057e-05,-643464.0000000041,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R5_I60_seed110\CPLEX\seed_1.json
+R5_I80_seed111,5,80,-980375,feasible,3.825066939942005e-05,-980412.5000000125,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R5_I80_seed111\CPLEX\seed_1.json
+R5_I100_seed112,5,100,-1185482,feasible,0.001951761205803589,-1187795.7777777785,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R5_I100_seed112\CPLEX\seed_1.json
+R5_I120_seed113,5,120,-1306974,feasible,0.0038910340717057054,-1312059.4803648335,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R5_I120_seed113\CPLEX\seed_1.json
+R5_I140_seed114,5,140,-1487387,feasible,0.0016850536700117006,-1489893.3269230777,C:\Users\user\Desktop\学校材料\论文\DORS_scheduler\comparison8\results\dors_adapted\R5_I140_seed114\CPLEX\seed_1.json
